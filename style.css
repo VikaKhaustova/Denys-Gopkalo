@@ -1,0 +1,43 @@
+body{
+  font-family: sans-serif;
+  background-color: #2ebfbd;
+  font-size: 30px;
+}
+
+img{
+    width:150px;
+}
+
+header, footer{
+    text-align:center ;
+    background-color: #37a690;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    color: #6b0bd9;
+    font-size: 60px;
+}
+
+header h1{
+    color: #1be042;
+}
+
+a{
+    color: #941c13;
+    background-color: #235996;
+    padding: 10px;
+    text-decoration: none;
+}
+
+main{
+    padding: 20px;
+    text-align: center;
+}
+
+ol{
+    text-align: center;
+    margin: 0px 200px 0px 200px ;
+}
+/*Зроби цей сайт красивим 😉*/
